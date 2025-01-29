@@ -67,16 +67,11 @@ To reproduce the results, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/traffic-accident-ml.git
-   cd traffic-accident-ml
+   git clone https://github.com/BikeshSuwal/Traffic-Accident-Severity-Prediction-using-Random-Forest.git
    ```
-2. Run the preprocessing script:
+2. Run the preprocessing and model training script:
    ```sh
-   python preprocess.py
-   ```
-3. Train the model:
-   ```sh
-   python train_model.py
+   texas data filtering.py
    ```
 
 ## Results & Future Work
